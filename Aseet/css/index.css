@@ -1,0 +1,118 @@
+#header{
+    
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+ 
+}
+
+
+body{
+
+    background: #202020;
+}
+.header-ytb--btn{
+    background:  none;
+    border-radius: 3px;
+    border: none;
+    cursor : pointer;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 1px;
+    
+    
+   
+
+}
+
+
+.fa-brands{
+    
+    border-radius: 4px;
+    background: red;
+    display: inline-block;
+    margin: auto 6px;
+    flex : 1;
+}
+
+.search-box{
+    	height: 25px;
+}
+
+#search-text{
+    height: 19px;
+
+
+}
+
+
+.search-keyboard{
+    margin-left: -10px;
+    cursor: pointer;
+
+}
+
+.search-btn{
+    
+    margin-left: -5px;
+    cursor: pointer;
+
+}
+
+.search-mic{
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+.dots{
+
+    background: none;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+.dang_nhap{
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.thu_muc {
+     
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    background-color: #202020;
+    color: #fff;
+    border: 1.5px solid rgb(50, 49, 49);
+    
+
+
+}
+
+.thu_muc1 {
+    border : 1.5px solid rgb(50, 49, 49);
+}
+.thu_muc2 {
+    border : 1.5px solid rgb(50, 49, 49);
+}
+.thu_muc3 {
+    border : 1.5px solid rgb(50, 49, 49);
+}
+.thu_muc4 {
+    border : 1.5px solid rgb(50, 49, 49);
+}
+.thu_muc5 {
+    border : 1.5px solid rgb(50, 49, 49);
+}
+.thu_muc6 {
+    border : 1.5px solid rgb(50, 49, 49);
+}
